@@ -1,0 +1,141 @@
+.well{
+	margin-right:-50px;
+}
+.logo{
+	width:250px;
+	height: 90px;
+	background-color: #0A071A;
+	float:left;
+	font-family: 'Georgia', Times, Times New Roman, Serif;
+	text-align:center;
+	line-height: 90px;
+	color:white;
+	font-weight:bold;
+	font-size:30px;
+	text-decoration: none;
+	margin-left: 60px;
+}
+.navbar{
+  background-color: #0A071A;
+}
+.text{
+	font-style: italic;
+	font-weight: lighter;
+}
+
+.nav {
+	float:right;
+	margin-top: 25px;
+}
+.nav a{
+	display:inline-block;
+	color:#999;
+	margin-left:15px;
+	border-left: 1px solid #C0C0C0;
+	padding-left: 15px;
+  line-height: 2em;
+	letter-spacing: .0166em;
+	font-size: 18px;
+}
+.nav a:first-child{
+	border-left: 0 none;
+}
+
+.nav a:hover{
+	color:white;
+}
+.active a{
+	background-color: black !important;
+	color:blue !important;
+}
+.banner{
+	background-image: url("../images/synratech/banner4.jpg");
+	background-size:cover;
+}
+p{
+	font-family: 'Georgia', Times, Times New Roman, Serif;
+	text-align: left;
+}
+h3{
+	color:black;
+	font-family: 'Georgia', Times, Times New Roman, Serif;
+
+}
+h6{
+	font-family: 'Georgia', Times, Times New Roman, Serif;
+	color:grey;
+}
+img{
+	width:350px;
+	height:100px;
+	border-radius: 10px;
+	border:2px solid black;
+	margin-bottom: 10px;
+}
+.sections{
+}
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,56,1.5),0 17px 50px 0 rgba(0,0,56,1.19);
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+		border-radius: 50px;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+		font-family: 'Georgia', Times, Times New Roman, Serif;
+
+}
+span{
+	color:#6c6f69;
+	font-weight: bold;
+}
+footer p{
+	text-align: center;
+}
+.address{
+	margin-left: 60px;
+}
+/*  About page Styling*/
+.about{
+	Width:184px;
+	height:120px;
+	margin:10px;
+}
+.title{
+	color:black !important;
+}
+.services{
+	width:300px;
+	height:150px;
+}
+div{
+	font-family: 'Georgia', Times, Times New Roman, Serif;
+
+}
+.aboutCompany{
+	margin-left:10px;
+	margin-top: 20px;
+}
+.social-icons{
+	margin:10px;
+	font-size: 18px;
+	color:green;
+	cursor: pointer;
+	-webkit-transition-duration: 0.5s; /* Safari */
+	transition-duration: 0.5s;
+	font-family: 'Georgia', Times, Times New Roman, Serif;
+
+}
+.social-icons:hover{
+	color:blue;
+
+}
